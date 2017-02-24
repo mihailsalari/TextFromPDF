@@ -7,6 +7,7 @@ Text from PDF file
 https://github.com/zachron/pdfiphone
 
 Contribuitors: 
+
 *https://github.com/zachron/pdfiphone
 
 *https://github.com/mihailsalari
