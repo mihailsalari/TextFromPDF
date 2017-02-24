@@ -6,6 +6,11 @@ Text from PDF file
 # Original rep
 https://github.com/zachron/pdfiphone
 
+Contribuitors: 
+https://github.com/zachron/pdfiphone
+https://github.com/mihailsalari
+https://github.com/amogildea
+
 ## Demo
 
 [![Demo Doccou alpha](https://github.com/mihailsalari/TextFromPDF/blob/master/Screens/Screen1.png)](https://www.youtube.com/)
