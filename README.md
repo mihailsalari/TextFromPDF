@@ -7,9 +7,11 @@ Text from PDF file
 https://github.com/zachron/pdfiphone
 
 Contribuitors: 
-https://github.com/zachron/pdfiphone
-https://github.com/mihailsalari
-https://github.com/amogildea
+*https://github.com/zachron/pdfiphone
+
+*https://github.com/mihailsalari
+
+*https://github.com/amogildea
 
 ## Demo
 
