@@ -34,7 +34,6 @@ Contribuitors:
 ### v1.0.0
 * UITextView
 * PDF
-* CIContext
 * zlib.tbd
 * UIAlertController
 
